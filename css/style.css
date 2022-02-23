@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-item img {
+    height: 75vh;
+    object-fit: cover;
+}
+
+.carousel-contro.prev{
+    left: 20%;
+}
+
+.carousel-control-next {
+    right: 20%;
+}
+
+.row {
+    margin: 0;
+}
+
+.marketing {
+    text-align: center;
+}
+
+.marketing h2 {
+    font-size: 3rem;
+    margin-bottom: 6rem;
+    margin-top: 5rem;
+}
+
+.lead {
+    text-align: center;
+}
+
+.float-right {
+    float: right;
+}
+
+.joon {
+    margin: 2rem;
+}
